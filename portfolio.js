@@ -18,8 +18,8 @@ export const socialLinks = {
   facebook: "https://www.facebook.com/qamar.abbas.9655/",
   instagram: "https://www.instagram.com/qamarabbasx/",
   twitter: "https://twitter.com/QamarAb83236772",
+  linkedin: "https://www.linkedin.com/in/qamar-abbas-8138b911a/",
   github: "https://github.com/qamargondal",
-  linkedin: "linkedin.com/in/qamar-abbas-8138b911a",
 };
 
 export const skillsSection = {
