@@ -1,112 +1,112 @@
-import emoji from "react-easy-emoji";
+import emoji from 'react-easy-emoji';
 
 export const greetings = {
-  name: "Qamar Abbas",
+  name: 'Qamar Abbas',
   title: "Hi all, I'm Qamar",
   description:
-    "Solution-oriented Back-end Software Engineer with an innate love of writing code to solve real-world problems Ability to manage time, coordinate with the team, and complete tasks on time. I am an excellent team player when it comes to team efforts to manipulate code. Can clearly communicate my ideas with the group, working with other team members to achieve the required goals. Always ready and excited to learn new things.",
-  resumeLink: "https://qamargondal.github.io/Resume/",
+    'Solution-oriented Back-end Software Engineer with an innate love of writing code to solve real-world problems Ability to manage time, coordinate with the team, and complete tasks on time. I am an excellent team player when it comes to team efforts to manipulate code. Can clearly communicate my ideas with the group, working with other team members to achieve the required goals. Always ready and excited to learn new things.',
+  resumeLink: 'https://qamargondal.github.io/Resume/',
 };
 
 export const openSource = {
-  githubUserName: "qamargondal",
+  githubUserName: 'qamargondal',
 };
 
 export const contact = {};
 
 export const socialLinks = {
-  facebook: "https://www.facebook.com/qamar.abbas.9655/",
-  instagram: "https://www.instagram.com/qamarabbasx/",
-  twitter: "https://twitter.com/QamarAb83236772",
-  linkedin: "https://www.linkedin.com/in/qamar-abbas-8138b911a/",
-  github: "https://github.com/qamargondal",
+  facebook: 'https://www.facebook.com/qamar.abbas.9655/',
+  instagram: 'https://www.instagram.com/qamarabbasx/',
+  twitter: 'https://twitter.com/QamarAb83236772',
+  linkedin: 'https://www.linkedin.com/in/qamar-abbas-8138b911a/',
+  github: 'https://github.com/qamargondal',
 };
 
 export const skillsSection = {
-  title: "What I do",
-  subTitle: "FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  title: 'What I do',
+  subTitle: 'FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK',
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      '⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications'
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
-    emoji("⚡ Integration of third party services such as Firebase/ AWS"),
+    emoji('⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks'),
+    emoji('⚡ Integration of third party services such as Firebase/ AWS'),
   ],
 
   softwareSkills: [
     {
-      skillName: "html-5",
-      fontAwesomeClassname: "vscode-icons:file-type-html",
+      skillName: 'html-5',
+      fontAwesomeClassname: 'vscode-icons:file-type-html',
     },
     {
-      skillName: "css3",
-      fontAwesomeClassname: "vscode-icons:file-type-css",
+      skillName: 'css3',
+      fontAwesomeClassname: 'vscode-icons:file-type-css',
     },
     {
-      skillName: "JavaScript",
-      fontAwesomeClassname: "logos:javascript",
+      skillName: 'JavaScript',
+      fontAwesomeClassname: 'logos:javascript',
     },
     {
-      skillName: "reactjs",
-      fontAwesomeClassname: "vscode-icons:file-type-reactjs",
+      skillName: 'reactjs',
+      fontAwesomeClassname: 'vscode-icons:file-type-reactjs',
     },
     {
-      skillName: "nodejs",
-      fontAwesomeClassname: "logos:nodejs-icon",
+      skillName: 'nodejs',
+      fontAwesomeClassname: 'logos:nodejs-icon',
     },
     {
-      skillName: "npm",
-      fontAwesomeClassname: "vscode-icons:file-type-npm",
+      skillName: 'npm',
+      fontAwesomeClassname: 'vscode-icons:file-type-npm',
     },
     {
-      skillName: "sql-database",
-      fontAwesomeClassname: "vscode-icons:file-type-sql",
+      skillName: 'sql-database',
+      fontAwesomeClassname: 'vscode-icons:file-type-sql',
     },
     {
-      skillName: "mongoDB",
-      fontAwesomeClassname: "vscode-icons:file-type-mongo",
+      skillName: 'mongoDB',
+      fontAwesomeClassname: 'vscode-icons:file-type-mongo',
     },
     {
-      skillName: "firebase",
-      fontAwesomeClassname: "logos:firebase",
+      skillName: 'firebase',
+      fontAwesomeClassname: 'logos:firebase',
     },
     {
-      skillName: "git",
-      fontAwesomeClassname: "logos:git-icon",
+      skillName: 'git',
+      fontAwesomeClassname: 'logos:git-icon',
     },
-    {
-      skillName: "docker",
-      fontAwesomeClassname: "logos:docker-icon",
-    },
+    // {
+    //   skillName: 'docker',
+    //   fontAwesomeClassname: 'logos:docker-icon',
+    // },
   ],
 };
 
 export const SkillBars = [
   {
-    Stack: "Frontend/Design", //Insert stack or technology you have experience in
-    progressPercentage: "80", //Insert relative proficiency in percentage
+    Stack: 'Frontend/Design', //Insert stack or technology you have experience in
+    progressPercentage: '80', //Insert relative proficiency in percentage
   },
   {
-    Stack: "Backend",
-    progressPercentage: "90",
+    Stack: 'Backend',
+    progressPercentage: '90',
   },
   {
-    Stack: "Programming",
-    progressPercentage: "80",
+    Stack: 'Programming',
+    progressPercentage: '80',
   },
   {
-    Stack: "Database",
-    progressPercentage: "80",
+    Stack: 'Database',
+    progressPercentage: '80',
   },
 ];
 
 export const educationInfo = [
   {
-    schoolName: "University Of Sargodha",
-    subHeader: "BS in Software Engineering",
-    duration: "September 2015 - June 2019",
-    desc: "In Final Year Project, Developed an application to aid visually impaired and blind people for object recognition and motion detection. Users will interact with the application via voice and the application will recognize the objects and the user will get the verbal response. ",
-    descBullets: ["Created Single Handed FYP", "Created Android Mobile App"],
+    schoolName: 'University Of Sargodha',
+    subHeader: 'BS in Software Engineering',
+    duration: 'September 2015 - June 2019',
+    desc: 'In Final Year Project, Developed an application to aid visually impaired and blind people for object recognition and motion detection. Users will interact with the application via voice and the application will recognize the objects and the user will get the verbal response. ',
+    descBullets: ['Created Single Handed FYP', 'Created Android Mobile App'],
   },
   // {
   //   schoolName: "Punjab Group Of Colleges",
@@ -131,29 +131,29 @@ export const educationInfo = [
 
 export const experience = [
   {
-    role: "Software Project Manager",
-    company: "Blinkers",
-    companylogo: "/img/icons/common/blinkers.jpg",
-    date: "January 2022 – Present",
-    desc: "Software Project Manager",
+    role: 'Software Engineer',
+    company: 'Blinkers',
+    companylogo: '/img/icons/common/blinkers.jpg',
+    date: 'January 2022 – Present',
+    desc: 'Software Project Manager',
     descBullets: [
-      "Technology Stack: NodeJs, JavaScript, Express, MySQL, PostgreSQL, MongoDB, Sequilize, Mongoose, Postman, GitHub.",
-      "Implementation of the Payment Gateways: Stripe and Checkout.",
-      "Effectively translated client requirements into application designs & system requirements.",
-      "Assisted in the collections and documentation of user requirements, development of user stories, and estimations.",
+      'Technology Stack: NodeJs, JavaScript, Express, MySQL, PostgreSQL, MongoDB, Sequilize, Mongoose, Postman, GitHub.',
+      'Implementation of the Payment Gateways: Stripe and Checkout.',
+      'Effectively translated client requirements into application designs & system requirements.',
+      'Assisted in the collections and documentation of user requirements, development of user stories, and estimations.',
     ],
   },
   {
-    role: "Frontend Developer",
-    company: "It Bouquet",
-    companylogo: "/img/icons/common/it_bouquet.png",
-    date: "September 2020 – September 2021",
-    desc: "Frontend Software Engineer",
+    role: 'Frontend Developer',
+    company: 'It Bouquet',
+    companylogo: '/img/icons/common/it_bouquet.png',
+    date: 'September 2020 – September 2021',
+    desc: 'Frontend Software Engineer',
     descBullets: [
-      "Technology Stack: HTML, CSS, Bootstrap, JavaScript, Java, XML.",
-      "Worked as a productive and team member to design, code, test, report & debug operations.",
-      "Managed front-end & back-end development in company’s portfolio analyst.",
-      "Evaluated and became knowledgeable in new standards, technologies, and trends in website development.",
+      'Technology Stack: HTML, CSS, Bootstrap, JavaScript, Java, XML.',
+      'Worked as a productive and team member to design, code, test, report & debug operations.',
+      'Managed front-end & back-end development in company’s portfolio analyst.',
+      'Evaluated and became knowledgeable in new standards, technologies, and trends in website development.',
     ],
   },
   //   {
@@ -167,14 +167,14 @@ export const experience = [
 
 export const projects = [
   {
-    name: "Blinkers Marketing",
-    desc: "Digital Marketing",
-    link: "https://blinkersmarketing.com/",
+    name: 'Blinkers Marketing',
+    desc: 'Digital Marketing',
+    link: 'https://blinkersmarketing.com/',
   },
   {
-    name: "Natours",
-    desc: "Natours is An awesome tour booking site built on top of NodeJS",
-    link: "https://natours-by-qamar.herokuapp.com/",
+    name: 'Natours',
+    desc: 'Natours is An awesome tour booking site built on top of NodeJS',
+    link: 'https://natours-by-qamar.herokuapp.com/',
   },
   // {
   //   name: "iGlows Admin Panel",
@@ -195,11 +195,10 @@ export const feedbacks = [
   //     "We have been very happy with our new web Project! It looks professional and very easy to navigate. Our experience with the customer service at Mohsin Ali has been great. They handle things very efficiently and are available for any questions we have. They also keep us updated on daily reports so we know how our site is doing. I would recommend that u have choose Mohsin web developer services for u.",
   // },
   {
-    name: "Blinkers Marketing",
+    name: 'Blinkers Marketing',
     feedback:
-      "We have been very happy with our new website! It looks professional and very easy to navigate.",
+      'We have been very happy with our new website! It looks professional and very easy to navigate.',
   },
 ];
-
 
 // "build": "SET NODE_OPTIONS=--openssl-legacy-provider && next build",
